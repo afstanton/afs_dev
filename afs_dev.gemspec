@@ -14,8 +14,9 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.add_dependency "better_errors", "~> 2.4"
-  spec.add_dependency "brakeman", "~> 4.1"
   spec.add_dependency "binding_of_caller", "~> 0.8"
+  spec.add_dependency "brakeman", "~> 4.1"
+  spec.add_dependency "bundler-audit"
   spec.add_dependency "pry-rails", "~> 0.3"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
