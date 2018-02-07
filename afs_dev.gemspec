@@ -13,9 +13,9 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/afstanton/afs_dev"
   spec.license       = "MIT"
 
-  spec.add_dependency "better_errors"
-  spec.add_dependency "binding_of_caller"
-  spec.add_dependency "pry-rails"
+  spec.add_dependency "better_errors", "~> 2.4"
+  spec.add_dependency "binding_of_caller", "~> 0.8"
+  spec.add_dependency "pry-rails", "~> 0.3"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
