@@ -33,8 +33,8 @@ There's no real "usage" unique to this gem yet. Consult the docs for the gems th
 [brakeman](https://github.com/presidentbeef/brakeman)  
 [bundler-audit](https://github.com/rubysec/bundler-audit)  
 [pry-rails](https://github.com/rweng/pry-rails)  
-[rails_best_practices](https://github.com/flyerhzm/rails_best_practices)  
 [rails-erd](https://github.com/voormedia/rails-erd)  
+[rails_best_practices](https://github.com/flyerhzm/rails_best_practices)  
 [rubocop](https://github.com/bbatsov/rubocop)  
 [rubycritic](https://github.com/whitesmith/rubycritic)  
 
