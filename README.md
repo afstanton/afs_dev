@@ -27,11 +27,16 @@ Or install it yourself as:
 
 There's no real "usage" unique to this gem yet. Consult the docs for the gems that it brings in.
 
+[annotate](https://github.com/ctran/annotate_models)  
 [better_errors](https://github.com/charliesome/better_errors)  
 [binding_of_caller](https://github.com/banister/binding_of_caller)  
 [brakeman](https://github.com/presidentbeef/brakeman)  
 [bundler-audit](https://github.com/rubysec/bundler-audit)  
 [pry-rails](https://github.com/rweng/pry-rails)  
+[rails_best_practices](https://github.com/flyerhzm/rails_best_practices)  
+[rails-erd](https://github.com/voormedia/rails-erd)  
+[rubocop](https://github.com/bbatsov/rubocop)  
+[rubycritic](https://github.com/whitesmith/rubycritic)  
 
 ## Development
 

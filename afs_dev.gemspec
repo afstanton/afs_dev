@@ -13,11 +13,16 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/afstanton/afs_dev"
   spec.license       = "MIT"
 
+  spec.add_dependency "annotate"
   spec.add_dependency "better_errors", "~> 2.4"
   spec.add_dependency "binding_of_caller", "~> 0.8"
   spec.add_dependency "brakeman", "~> 4.1"
   spec.add_dependency "bundler-audit", "~> 0.6"
   spec.add_dependency "pry-rails", "~> 0.3"
+  spec.add_dependency "rails_best_practices"
+  spec.add_dependency "rails-erd"
+  spec.add_dependency "rubocop"
+  spec.add_dependency "rubycritic"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
